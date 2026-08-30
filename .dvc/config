@@ -1,0 +1,4 @@
+[core]
+    remote = q3remote
+['remote "q3remote"']
+    url = ssh://aakash@10.22.18.20:2222/home/aakash/dvcstore/q3-arnav
